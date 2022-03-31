@@ -1,7 +1,5 @@
 # Insektroboter
 
-Ziel dieses Projekts war es, das Verhalten eines Insekts in einem Roboter zu implementieren, sodass er selbstständig auf äußere Reize entsprechend reagieren kann. Inspiriert haben wir uns von dem bereits bestehenden Projekt der Firma Plum Geek.
-
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
