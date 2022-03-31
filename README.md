@@ -1,5 +1,8 @@
 # Insektroboter
 
+Weitere Informationen finden Sie unter folgenden Link:
+https://www.mintgruen.tu-berlin.de/robotikWiki/doku.php?id=projektesose21:insektpublic:start
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
